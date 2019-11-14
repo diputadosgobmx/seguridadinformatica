@@ -134,6 +134,7 @@ dnf -y install gparted
 
 # Instalación de antivirus e interfaz gráfica - CLAM
 dnf -y install clamtk
+freshclam
 
 # Instalación de software de modelado, animación y renderizado 3D - Blender
 dnf -y install blender
@@ -152,6 +153,8 @@ dnf -y install ImageMagick
 # Instalación de editor de diagramas Dia
 dnf -y install dia
 dnf -y install dia-*
+
+
 dnf -y install scribus
 dnf -y install xchm
 dnf -y install calibre
