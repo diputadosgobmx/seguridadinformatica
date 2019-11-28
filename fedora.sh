@@ -20,6 +20,7 @@
 #   - Opción 2 con curl: $ curl
 # - Cambio de permisos para permitir ejecución del archivo
 #   - $ chmod +x <archivo>
+#   - # ./<archivo>
 #   
 # Uso desde Internet:
 # - $ sudo curl -sSL https://XXXXXXXXX.codigoabierto.diputados.gob.mx 
